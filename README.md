@@ -56,19 +56,14 @@ Content category vs Average Earnings
 Views distribution across different categories
 
 📊 Visualizations:
-📈 Correlation Heatmaps
 
-📊 Bar Charts (e.g., Top YouTuber Countries, Content Categories)
-
-🧮 Scatter Plots with regression lines
-
-📉 Growth Trend Lines (Subscribers over years)
-
-🌍 Geographical Maps (YouTuber distribution by country)
-
-🍰 Pie Charts (Views distribution across categories)
-
-🧩 Treemaps (Category distribution)
+1. 📈 Correlation Heatmaps
+2. 📊 Bar Charts (e.g., Top YouTuber Countries, Content Categories)
+3. 🧮 Scatter Plots with regression lines
+4. 📉 Growth Trend Lines (Subscribers over years)
+5. 🌍 Geographical Maps (YouTuber distribution by country)
+6. 🍰 Pie Charts (Views distribution across categories)
+7. 🧩 Treemaps (Category distribution)
 
 📌 Key Insights & Findings:
 Subscribers and views have a strong positive correlation.
