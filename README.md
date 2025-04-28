@@ -57,11 +57,17 @@ Views distribution across different categories
 
 📊 Visualizations:
 📈 Correlation Heatmaps
+
 📊 Bar Charts (e.g., Top YouTuber Countries, Content Categories)
+
 🧮 Scatter Plots with regression lines
+
 📉 Growth Trend Lines (Subscribers over years)
+
 🌍 Geographical Maps (YouTuber distribution by country)
+
 🍰 Pie Charts (Views distribution across categories)
+
 🧩 Treemaps (Category distribution)
 
 📌 Key Insights & Findings:
